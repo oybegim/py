@@ -1,1 +1,16 @@
 print("bir")
+print("bir")
+print("bir")
+print("bir")
+print("bir")
+print("bir")
+print("bir")
+print("bir")
+
+print("bir")
+print("bir")
+print("bir")
+print("bir")
+print("bir")
+
+print("bir")
